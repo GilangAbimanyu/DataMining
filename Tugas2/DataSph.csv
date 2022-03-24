@@ -1,0 +1,40 @@
+bulan, titik_lokasi , kecamatan , wilayah , panjang/luas (m) ,tanggal,volume_sampah_perhari(m3)
+6,Sungai Sentiong - Ruas Dewi Sri,Johar Baru,Jakarta Pusat,464,1,3
+6,Sungai Sentiong - Ruas Abapon,Johar Baru,Jakarta Pusat,464,1,4
+6,Sungai Sentiong - JL Tanah Tinggi,Johar Baru,Jakarta Pusat,464,1,4
+6,Sungai Sentiong Jl.Galur - Pombensin,Johar Baru,Jakarta Pusat,606,1,4
+6,Kali / Sungai Sentiong - Jl. Timah,Johar Baru,Jakarta Pusat,310,1,5
+6,PHB Kawi Kawi Bawah,Johar Baru,Jakarta Pusat,620,1,1
+6,PHB Kayu Awet,Johar Baru,Jakarta Pusat,300,1,12
+6,PHB Pulo Gundul,Johar Baru,Jakarta Pusat,500,1,1
+6,PHB Tanah Tinggi XII,Johar Baru,Jakarta Pusat,500,1,1
+6,PHB Bala Dewa,Johar Baru,Jakarta Pusat,330,1,1
+6,PHB Percetakan Negara II,Johar Baru,Jakarta Pusat,500,1,12
+6,PHB Johar Baru V,Johar Baru,Jakarta Pusat,200,1,0.5
+6,PHB Kampung Rawa,Johar Baru,Jakarta Pusat,700,1,12
+6,Sungai Utan Kayu Jl Pengayoman,Cempaka Putih,Jakarta Pusat,600,1,0
+6,Sungai Utan Kayu Jembatan Serong,Cempaka Putih,Jakarta Pusat,400,1,12
+6,Kali / Sungai Utan Kayu Jembatan Serong - SLTP 137,Cempaka Putih,Jakarta Pusat,950,1,0
+6,Kali / Sungai Utan Kayu SLTP 137 - Kebun Sayur,Cempaka Putih,Jakarta Pusat,1250,1,0
+6,Kali / Sungai Utan Kayu Jembatan Kebun Sayur - Suprapto,Cempaka Putih,Jakarta Pusat,700,1,12
+6,Kali / Sungai Utan Kayu Suprapto cempaka baru,Cempaka Putih,Jakarta Pusat,900,1,0
+6,Kali / Sungai Utan Kayu Cempaka Baru - Kodam,Cempaka Putih,Jakarta Pusat,900,1,0
+6,PHB Rawa Kebo,Cempaka Putih,Jakarta Pusat,1100,1,0
+6,PHB Mardani,Cempaka Putih,Jakarta Pusat,860,1,12
+6,PHB Cempaka Raya,Cempaka Putih,Jakarta Pusat,600,1,12
+6,PHB Suprapto/Bpjs,Cempaka Putih,Jakarta Pusat,1570,1,0
+6,PHB Yatof,Cempaka Putih,Jakarta Pusat,250,1,0.5
+6,PHB Cempaka Putih Indah,Cempaka Putih,Jakarta Pusat,210,1,0.5
+6,PHB Cempaka Putih Barat 25,Cempaka Putih,Jakarta Pusat,220,1,0.5
+6,PHB Suprapto Bea Cukai,Cempaka Putih,Jakarta Pusat,680,1,0.5
+6,PHB Rawa Kerbau,Cempaka Putih,Jakarta Pusat,550,1,12
+6,PHB Ahmad Yani,Cempaka Putih,Jakarta Pusat,,1,12
+6,Kali / Sungai Ciliwung Ruas Veteran,Gambir,Jakarta Pusat,2000,1,0.5
+6,Kali / Sungai Ciliwung Ruas Pejambon,Gambir,Jakarta Pusat,1000,1,12
+6,Kali / Sungai Ciliwung Ruas Belakang Kemenkeu,Gambir,Jakarta Pusat,1000,1,12
+6,Kali / Sungai Ciliwung Ruas Pintu Istiqlal,Gambir,Jakarta Pusat,700,1,12
+6,Sungai Ciliwung Ruas jl Perwira,Gambir,Jakarta Pusat,800,1,12
+6, Sungai Cideng Ruas Siantar,Gambir,Jakarta Pusat,900,1,12
+6,Sungai Cideng Ruas Zainul Arifin,Gambir,Jakarta Pusat,950,1,12
+6,Sungai Cideng Ruas Holand Bakeri,Gambir,Jakarta Pusat,950,1,12
+6,Sungai Cideng Ruas Tarakan,Gambir,Jakarta Pusat,800,1,12
